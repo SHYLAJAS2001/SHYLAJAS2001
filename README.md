@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**SHYLAJAS2001/SHYLAJAS2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ### About Me
 - 🔭 I’m currently working on expanding my knowledge in machine learning and artificial intelligence.
 - 🌱 I’m currently learning advanced algorithms and data structures.
@@ -13,7 +9,7 @@
 - 📫 How to reach me: s.shylaja2001@gmail.coom
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love reading tech blogs and experimenting with new programming languages!
--->
+
 
 ### SHYLAJA S
 📧 [s.shylaja2001@gmail.coom](mailto:s.shylaja2001@gmail.coom)  

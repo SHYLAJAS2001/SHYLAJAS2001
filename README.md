@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 ### SHYLAJA S
-📧 [s.shylaja2001@gmail.coom](mailto:s.shylaja2001@gmail.coom)  
-📱 8778150529  
-🌐 [github.com/SHYLAJAS2001](https://github.com/SHYLAJAS2001)
 
 ### About Me
 - 🔭 I’m currently working on expanding my knowledge in machine learning and artificial intelligence.

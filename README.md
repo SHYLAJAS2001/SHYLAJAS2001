@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### SHYLAJA S
+📧 [s.shylaja2001@gmail.coom](mailto:s.shylaja2001@gmail.coom)  
+📱 8778150529  
+🌐 [github.com/SHYLAJAS2001](https://github.com/SHYLAJAS2001)
+
 ### About Me
 - 🔭 I’m currently working on expanding my knowledge in machine learning and artificial intelligence.
 - 🌱 I’m currently learning advanced algorithms and data structures.
@@ -9,12 +14,6 @@
 - 📫 How to reach me: s.shylaja2001@gmail.coom
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love reading tech blogs and experimenting with new programming languages!
-
-
-### SHYLAJA S
-📧 [s.shylaja2001@gmail.coom](mailto:s.shylaja2001@gmail.coom)  
-📱 8778150529  
-🌐 [github.com/SHYLAJAS2001](https://github.com/SHYLAJAS2001)
 
 ### Profile
 A professional looking for challenging and exciting opportunities which will give a considerable degree of responsibility that enhances my skill and knowledge.
